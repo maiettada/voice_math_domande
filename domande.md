@@ -7,3 +7,4 @@ A seguire possiamo aggiungere all'elenco le nostre domande; la speranza è che, 
 Questo criterio è fondamentale per poter attuare un eventuale preprocessing agli audio. 
 2. Distanza di Lehvenstein con Word Error Rate e Character Error Rate. Sarebbe utile un esempio di come avete applicato queste metriche, visto che non considerate necessario l'allineamento tra testi.
 3. Se risulta evidente che la baseline ( Google ) è migliore, non sarebbe forse il caso di utilizzare la baseline stessa?
+4. Si potrebbe avere un caso d'uso utente dettagliato sull'utilizzo del software?
